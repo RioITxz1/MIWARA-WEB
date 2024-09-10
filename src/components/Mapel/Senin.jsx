@@ -17,6 +17,7 @@ const Senin = () => {
 					<div className="w-[50%] text-base  font-medium">Bahasa Inggris</div>
 					<div className="flex justify-center items-center text-sm">Abdul Kadir</div>
 				</div>
+	</>
     )
 } 
 
