@@ -24,7 +24,11 @@ const Footer = () => {
 										RIO ZAVELA
 									</a>
 								</li>
-							
+								<li>
+								<a href="https://www.instagram.com/cece_kawaiii/?hl=id" class="hover:underline">
+										RETNO ANJANI
+									</a>
+									</li>
 							</ul>
 						</div>
 						<div className="">
