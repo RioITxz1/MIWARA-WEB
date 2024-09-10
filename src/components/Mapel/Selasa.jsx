@@ -22,8 +22,7 @@ const Selasa = () => {
 					<div className="w-[50%] text-base  font-medium">Pkwu</div>
 					<div className="flex justify-center items-center text-sm">Gita</div>
 				</div>
-				
-        </>
+	</>
     )
 } 
 
